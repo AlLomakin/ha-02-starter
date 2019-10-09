@@ -1,2 +1,2 @@
-# ha-01-starter
-starter repository for first ha
+# ha-02-starter
+starter repository for second ha
